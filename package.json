@@ -1,0 +1,23 @@
+{
+  "name": "dev_mtn_books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonras82/Node_devMtn_books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonras82/Node_devMtn_books/issues"
+  },
+  "homepage": "https://github.com/jasonras82/Node_devMtn_books#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
